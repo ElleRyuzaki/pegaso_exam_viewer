@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Pegaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00F07687-023F-4E08-BA1A-0D621820B6D2}|Pegaso\\Pegaso.csproj|c:\\users\\simon\\source\\repos\\pegaso\\pegaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F07687-023F-4E08-BA1A-0D621820B6D2}|Pegaso\\Pegaso.csproj|solutionrelative:pegaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{587910af-a90a-3787-8b7a-65e34824fa7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{18e1c256-ac83-3310-a9c0-01b5de508316}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c478b6ac-54a8-3bd5-bc46-494f58b422c9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Pegaso\\Pegaso\\Program.cs",
+              "RelativeDocumentMoniker": "Pegaso\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Pegaso\\Pegaso\\Program.cs",
+              "RelativeToolTip": "Pegaso\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewC0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:01:39.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
