@@ -7,6 +7,9 @@ Il tool ha bisogno di un token di autenticazione che viene fornito in fase di ac
 Prerequisiti:
 Installa .net sdk qui: https://dotnet.microsoft.com/it-it/download/dotnet/thank-you/sdk-8.0.406-windows-x64-installer
 
+Come si avvia?
+Scarica la release, decomprimi l'archivio e avvia il file exe oppure clona questa repository.
+
 Come si utilizza?
 Semplicissimo: basta inserire username e password e poi riceverai la lista degli esami sostenuti. Digita il numero corrispondente all'esame e vedrai domande e risposte.
 Esportale con un semplice copia e incolla.
