@@ -1,0 +1,6 @@
+C:\Users\simon\Desktop\Pegaso.exe
+C:\Users\simon\Desktop\Pegaso.dll
+C:\Users\simon\Desktop\Pegaso.deps.json
+C:\Users\simon\Desktop\Pegaso.runtimeconfig.json
+C:\Users\simon\Desktop\Pegaso.pdb
+C:\Users\simon\Desktop\Newtonsoft.Json.dll
