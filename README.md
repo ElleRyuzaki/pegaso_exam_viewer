@@ -1,5 +1,5 @@
 # Pegaso Exam Viewer
-IL TOOL È STATO SOSTITUITO COMPLETAMENTE DALLA WEB APP examsync.altervista.org
+IL TOOL È STATO SOSTITUITO COMPLETAMENTE DALLA WEB APP https://examsync.altervista.org
 
 Un tool per visualizzare gli esami sostenuti sulla piattaforma Multiversity ed esportare domande e risposte.
 
